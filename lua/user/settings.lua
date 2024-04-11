@@ -3,9 +3,7 @@ local settings = {}
 
 -- Examples
 settings["use_ssh"] = false
-settings["lsp_deps"] = {
-	"tsserver",
-}
+
 settings["colorscheme"] = "catppuccin"
 
 return settings

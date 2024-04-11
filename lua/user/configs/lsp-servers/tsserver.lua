@@ -11,6 +11,7 @@ return {
 			"typescript",
 			"typescriptreact",
 			"typescript.tsx",
+			"vue",
 		},
 		root_dir = util.root_pattern("tsconfig.json", "package.json", "jsconfig.json", ".git"),
 		single_file_support = true,
